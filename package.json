@@ -1,0 +1,12 @@
+{
+  "name": "signup-form",
+  "version": "1.0.0",
+  "description": "sign-up form created using html and css",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": ["vuln form", "vuln website"],
+  "author": "krupt3x",
+  "license": "ISC"
+}
