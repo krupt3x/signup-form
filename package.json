@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "sign-up form created using html and css",
   "main": "index.js",
-  "scripts": {
-
-  },
-  "keywords": ["vuln form", "vuln website"],
+  "scripts": {},
+  "keywords": [
+    "vuln form",
+    "vuln website"
+  ],
   "author": "krupt3x",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
