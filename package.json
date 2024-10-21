@@ -1,0 +1,19 @@
+{
+  "name": "signup-form",
+  "version": "1.0.0",
+  "description": "minimal signup form written using vanilla html css and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/krupt3x/signup-form"
+  },
+  "keywords": [
+    "signup",
+    "form"
+  ],
+  "author": "krupt3x",
+  "license": "ISC"
+}
