@@ -15,5 +15,8 @@
     "form"
   ],
   "author": "krupt3x",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
 }
